@@ -1,7 +1,7 @@
 # Payroll Maker
 
 [![Platform](https://img.shields.io/badge/Platform-Windows-blue.svg)](#system-requirements)
-[![Release](https://img.shields.io/badge/Release-v3.9.1-brightgreen.svg)](https://github.com/bibinjacobm/payroll-maker/releases)
+[![Release](https://img.shields.io/badge/Release-v4.1-brightgreen.svg)](https://github.com/bibinjacobm/payroll-maker/releases)
 [![License](https://img.shields.io/badge/License-Freeware-orange.svg)](#licence)
 [![Privacy](https://img.shields.io/badge/Data%20Privacy-100%25%20Offline-success.svg)](#data-privacy--security)
 
